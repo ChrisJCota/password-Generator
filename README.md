@@ -5,7 +5,8 @@ The movtivation for this project was to work on functions, methods, arrays and i
 
 ##usage
 This site can be used to generate a secure passcode with a symbol, number, capital letter, and lowercase letter.
-<img width="1440" alt="Screenshot 2023-01-25 at 11 22 17 AM" src="https://user-images.githubusercontent.com/118009584/214618430-251eb1a2-fdda-4e14-bb37-a61337546d64.png">
+<img width="1440" alt="Screenshot 2023-01-25 at 11 25 39 AM" src="https://user-images.githubusercontent.com/118009584/214619275-60bccf89-ea0e-42da-b324-2b21b84eb06b.png">
+
 
 
 ##Credits
